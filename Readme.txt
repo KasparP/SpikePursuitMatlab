@@ -2,7 +2,9 @@ This is the version of the Spike Pursuit Code used to analyze data in March 2019
 
 This snapshot of the code is functional but is not intended as a practical tool for wide distribution; Spike Pursuit has since been translated to Python and integrated into CaIMAN by Andrea Giovannucci and lab - a development version may be available from Andrea.
 
-For a basic description of how Spike Pursuit works, see the supplement of that Abdelfattah et al.
+Example data to accompany this code will soon be available via FigShare, and will be linked in this readme.
+
+For a basic description of how Spike Pursuit works, see the supplement of Abdelfattah et al. 2019
 
 The core function is spikePursuit.m, which calls denoiseSpikes.m in an inner loop.
 
